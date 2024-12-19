@@ -1,5 +1,2 @@
 # python
-practice
-
-
-New course
+sample code for project
